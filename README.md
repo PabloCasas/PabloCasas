@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## Favorite Movie Scenes
 - In 21 Jump Street where Channing Tatum says in a cholo voice, "My name Jeff"
-- In The Matrix where Trinity is running away from a Smith Agent and jumps into a building and falls down some stairs and tells herslef, "Get up Trinity"
+- In The Matrix where Trinity is running away from a Smith Agent and jumps into a building and falls down some stairs and tells herself, "Get up Trinity"
 <!--
 **PabloCasas/PabloCasas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

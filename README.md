@@ -1,7 +1,14 @@
 ### Hi there 👋
-## Favorite Movie Scenes
-- In 21 Jump Street where Channing Tatum says in a cholo voice, "My name Jeff"
-- In The Matrix where Trinity is running away from a Smith Agent and jumps into a building and falls down some stairs and tells herself, "Get up Trinity"
+## About Me
+# Work Experience
+I've been working in aerospace for 10 yrs now. Started as an electromagnetic compatability/interference (EMI/EMC) engineer at Boeing. Then worked at test system designer at Raytheon Missile systems. After that worked as a systems engineer for space systems for Northrop Grumman, and then finally I'm currently an Integration and Test engineer at Raytheon.
+
+# Academic Experience
+Currenlty a graduate Computer Engineering student as California State University, Los Angeles.
+Studied radar systems at the University of Oklahoma, from 2016 to 2018.
+
+
+
 <!--
 **PabloCasas/PabloCasas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
